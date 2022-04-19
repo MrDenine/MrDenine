@@ -14,7 +14,7 @@
 - 😄  Pronouns: He/His
 <hr>
 <Br>
-<h1 align="center">🛠 Tech Stack</h1>
+<h1>🛠 Tech Stack</h1>
   
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
