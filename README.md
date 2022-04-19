@@ -16,6 +16,7 @@
 <hr>
 <Br>
 <h1>🛠 Tech Stack</h1>
+  
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,11 +68,8 @@
 <a href="mailto:Panuwat_nine@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Panuwat_nine@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
 <a href="https://www.github.com/MrDenine/" target="blank"><img align="center" src="https://img.shields.io/badge/MrDenine-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-  
+Last Edited on: 20/04/2022
 
-
-  
-  
 <!--
 **MrDenine/MrDenine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
