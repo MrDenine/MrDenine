@@ -15,7 +15,7 @@
 <hr>
 <Br>
 <h1 align="center">🛠 Tech Stack</h1>
-<p align="center">
+  
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
@@ -43,7 +43,7 @@
   
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-</p> 
+
 
 <Br>
 <h1 align="center"> 📬 Contact Me!</h1>
