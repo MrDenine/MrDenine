@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Phanuwat</h1>
 <h3 align="center">A Programmer/Developer from Thailand</h3>
 <Br>
-<h1>About Me! 😎</h1>
+<h1 align="center">About Me! 😎</h1>
   
 - 🏫: I graduated from Rajamangala University of Technology Thanyaburi (RMUTT).
 - 🔭: I’m currently working on many projects.
@@ -15,7 +15,7 @@
   
 <hr>
 <Br>
-<h1>🛠 Tech Stack</h1>
+<h1 align="center">🛠 Tech Stack</h1>
 ------
   
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=for-the-badge&logo=html5&logoColor=white)
