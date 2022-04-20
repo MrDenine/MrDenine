@@ -17,7 +17,7 @@
 <Br>
 <h1>🛠 Tech Stack</h1>
 <p align="center">  
-<h3>💾 Databases</h3>
+
   
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +39,10 @@
 ![Flutter](http://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=for-the-badge&logo=npm&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
-
+  
+<h3>💾 Databases</h3>
+---
+  
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=for-the-badge&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](http://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
