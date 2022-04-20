@@ -16,8 +16,6 @@
 <hr>
 <Br>
 <h1>🛠 Tech Stack</h1>
-<p align="center">  
-
   
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,7 +39,6 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
   
 <h3>💾 Databases</h3>
-<hr>
   
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=for-the-badge&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=for-the-badge&logo=mongodb)
@@ -67,7 +64,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   
-</p>
+<hr>
 <h1 align="center"> 📬 Contact Me!</h1>
 <Br>
 <p align="center">  
