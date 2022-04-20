@@ -65,9 +65,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   
+  
 <hr>
-<h1 align="center"> 📬 Contact Me!</h1>
 <Br>
+<h1 align="center"> 📬 Contact Me!</h1>
 <p align="center">  
 <a href="mailto:panuwat_nine@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/panuwat_nine@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;    
 <a href="mailto:jusstie500@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jusstie500@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
