@@ -17,7 +17,7 @@
 <Br>
 <h1>🛠 Tech Stack</h1>
 <p align="center">  
-  - 🏫: I graduated from Rajamangala University of Technology Thanyaburi (RMUTT).
+<h3>💾 Databases</h3>
   
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
