@@ -10,7 +10,7 @@
 - 🔭: I’m currently working on many projects.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+<!-- - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠 -->
 - 😄  Pronouns: He/His
   
 <hr>
