@@ -20,8 +20,8 @@
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=for-the-badge&logo=javascript&logoColor=black)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=for-the-badge&logo=php&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](http://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+<!-- ![C#](http://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   -->
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](http://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   
