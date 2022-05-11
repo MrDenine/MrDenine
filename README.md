@@ -76,10 +76,11 @@
 </p>
 <br>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhinyoCh&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PhinyoCh&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
-  
-Last Edited on: 20/04/2022
+<p align="center">  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrDenine&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrDenine&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
+</p>
+Last Edited on: 5/11/2022
 
 <!--
 **MrDenine/MrDenine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
