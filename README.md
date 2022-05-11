@@ -75,6 +75,10 @@
 <a href="https://www.github.com/MrDenine/" target="blank"><img align="center" src="https://img.shields.io/badge/MrDenine-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <br>
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhinyoCh&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PhinyoCh&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+  
 Last Edited on: 20/04/2022
 
 <!--
