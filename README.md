@@ -78,7 +78,7 @@
 <hr>
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrDenine&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
-<img src="https://github-readme-stats.vercel.app/api?username=MrDenine&show_icons=true&locale=en" alt="akash-chowrasia" width="500" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrDenine&show_icons=true&locale=en" alt="akash-chowrasia"  />
 </p>
 Last Edited on: 5/11/2022
 
