@@ -13,7 +13,9 @@
   </div>
 <hr>
 <h1 align="center">🛠 Tech Stack</h1>
+
 <h2>📋 Languages</h2>
+<div align="center">
   
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +28,7 @@
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](http://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   
+</div>   
 <h2>📚 Frameworks, Platforms and Libraries</h2>
 
 ![Bootstrap](http://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
