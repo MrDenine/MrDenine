@@ -13,9 +13,8 @@
   </div>
 <hr>
 <h1 align="center">🛠 Tech Stack</h1>
-
-<h2>📋 Languages</h2>
 <div align="center">
+<h2>📋 Languages</h2>
   
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,8 +26,7 @@
 ![C#](http://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](http://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  
-</div>   
+    
 <h2>📚 Frameworks, Platforms and Libraries</h2>
 
 ![Bootstrap](http://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -79,7 +77,7 @@
 ![Google Cloud](http://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](http://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   
-  
+</div> 
 <hr>
 <Br>
 <h1 align="center"> 📬 Contact Me!</h1>
