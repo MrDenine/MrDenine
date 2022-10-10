@@ -93,7 +93,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MrDenine&show_icons=true&locale=en" alt="akash-chowrasia" width = '420px'/>
 </p>
 <br>
-Last Edited on: 5/11/2022
 
 <!--
 **MrDenine/MrDenine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
