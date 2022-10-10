@@ -2,14 +2,15 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <h1 align="center">Hi 👋, I'm Phanuwat</h1>
-<h3 align="center">A Programmer/Developer from Thailand</h3>
+<h3 align="center">A Software Developer from Thailand</h3>
 <Br>
 <h1 align="center">About Me! 😎</h1>
-  
-- 🏫: I graduated from Rajamangala University of Technology Thanyaburi (RMUTT).
-- 🔭: I’m currently working on many projects.
-- 🌱: I’m currently learning Data Science and Machine Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅 <!-- - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠 --> <!-- - 😄  Pronouns: He/His -->
+  <ul>
+    <li>🏫: I graduated from Rajamangala University of Technology Thanyaburi (RMUTT).</li>
+    <li>🔭: I’m currently working on Charoen Pokphand Foods (CPF).</li>
+    <li>🌱: I’m currently learning Data Science and Machine Learning. 🧠💻🤖</li>
+    <li>🤔: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠</li>
+  </ul>
 <hr>
 <h1 align="center">🛠 Tech Stack</h1>
 <h2>📋 Languages</h2>
