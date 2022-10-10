@@ -6,12 +6,12 @@
 <Br>
 <h1 align="center">About Me! 😎</h1>
   <div align="center">
-    <ul>
-      <li> 🏫: I graduated from Rajamangala University of Technology Thanyaburi (RMUTT). </li>
-      <li> 🔭: I’m currently working on Charoen Pokphand Foods (CPF). </li>
-      <li> 🌱: I’m currently learning Data Science and Machine Learning. 🧠💻🤖 </li>
-      <li> 🤔: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠 </li>
-    </ul>
+  
+      <p> 🏫: I graduated from Rajamangala University of Technology Thanyaburi (RMUTT). </p>
+      <p> 🔭: I’m currently working on Charoen Pokphand Foods (CPF). </p>
+      <p> 🌱: I’m currently learning Data Science and Machine Learning. 🧠💻🤖 </p>
+      <p> 🤔: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠 </p>
+    
   </div>
 <hr>
 <h1 align="center">🛠 Tech Stack</h1>
