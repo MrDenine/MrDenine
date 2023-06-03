@@ -19,8 +19,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=for-the-badge&logo=javascript&logoColor=black)
-![Php](http://img.shields.io/badge/-Php-767bb3?style=for-the-badge&logo=php&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Php](http://img.shields.io/badge/-Php-767bb3?style=for-the-badge&logo=php&logoColor=white)
 ![Go](http://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](http://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=for-the-badge&logo=python&logoColor=white)
@@ -34,6 +34,7 @@
 ![Express.js](http://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Flutter](http://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](http://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![.NET](http://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
   
 <h3>Databases</h3>
