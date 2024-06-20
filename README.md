@@ -7,6 +7,7 @@
 <h1 align="center">About Me! 😎</h1>
   <div align="center">
       🌱: I’m currently working on mobile developer. 🧠💻🤖 </br>
+      📱: Ask me about Flutter, Kotlin and more 😊. </br>
   </div>
 <hr>
 <h1 align="center">🛠 Tech Stack</h1>
