@@ -85,7 +85,6 @@
 <Br>
 <h1 align="center"> 📬 Contact Me!</h1>
 <p align="center">  
-<a href="mailto:Panuwat_nine@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Panuwat_nine@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;    
 <a href="mailto:Panuwat.nine09@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Panuwat.nine09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
 <a href="https://www.github.com/MrDenine/" target="blank"><img align="center" src="https://img.shields.io/badge/MrDenine-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
