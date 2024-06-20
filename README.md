@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at AXONS in Bangkok (Thailand) as Fontend and Mobile Developer.\
-🎓 &nbsp;I'm currently studying Computer Engineers at Rajamangala University of Technology Thanyaburi .\
+🎓 &nbsp;I'm currently studying Computer Engineers at Rajamangala University of Technology Thanyaburi.
 
 ### 🛠 &nbsp;Language
 ![Dart](http://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
