@@ -40,6 +40,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:Panuwat.nine09@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Panuwat.nine09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+
+<a href="https://www.linkedin.com/in/phanuwat-atchariyathin-0588b6259/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
+<a href="mailto:Panuwat.nine09@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Panuwat.nine09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
 <a href="https://www.github.com/MrDenine/" target="blank"><img align="center" src="https://img.shields.io/badge/MrDenine-100000?style=for-the-badge&logo=github&logoColor=white" />
 
