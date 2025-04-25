@@ -5,6 +5,7 @@
 ### 🛠 &nbsp;Language
 ![Dart](http://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=for-the-badge&logo=html5&logoColor=white)
